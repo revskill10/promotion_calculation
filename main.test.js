@@ -1,3 +1,7 @@
+function add(a, b) { return a + b }
+
+function substract(a, b) { return a - b }
+
 describe("My first test suite", () => {
     it("adds two numbers", () => {
         expect(add(2, 2)).toBe(4);
