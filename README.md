@@ -1,5 +1,5 @@
 ## Promotion Calculation
 
 ```
-npm run test
+npm test
 ```
