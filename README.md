@@ -1,5 +1,5 @@
 ## Promotion Calculation
 
 ```
-node main.js
+npm run test
 ```
